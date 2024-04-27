@@ -1,6 +1,6 @@
-Lógica de Programação
+<b>Lógica de Programação</b>
 
-Implementação de um sistema de controle de estoque de peças para facilitar o gerenciamento de estoque de uma empresa em JavaScript.
+<i>Implementação de um sistema de controle de estoque de peças para facilitar o gerenciamento de estoque de uma empresa em JavaScript.</i>
 
 <p>Esse sistema terá como função principal a de controlar a entrada e saída de peças
 do estoque, além de atender aos seguintes requisitos:</p>
